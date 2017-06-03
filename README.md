@@ -10,7 +10,7 @@ Project Description
 
 * Sentiment Analysis with Naive Bayes using PySpark
 	* Performed data cleaning and transformation, and estimate TF using PySpark RDD
-	* Built a Naive Bayes model to determine sentiment analysis and achieved an accuracy of 82.5%
+	* Built a Naive Bayes model to perform sentiment analysis and achieved an accuracy of 82.5%
 
 * Sentiment Analysis of Tweets
 	* Parsed and stemmed tweet texts, and determined TF of the most common words
