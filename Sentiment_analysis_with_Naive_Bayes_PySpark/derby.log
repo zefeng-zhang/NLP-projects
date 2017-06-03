@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jun 03 12:11:01 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-6f5e-2a07-00000f555480 
+on database directory /Users/zefeng-zhang/Google Drive/Lecture Notes/MSAN692 Acquisition/NLP-projects/TFIDF_Naive_Bayes_PySpark/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@694e7bfb 
+Loaded from file:/usr/local/Cellar/apache-spark/2.1.0/libexec/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/zefeng-zhang/Google Drive/Lecture Notes/MSAN692 Acquisition/NLP-projects/TFIDF_Naive_Bayes_PySpark
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

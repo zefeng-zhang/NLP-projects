@@ -13,5 +13,5 @@ Project Description
 	* Built a Naive Bayes model to determine sentiment analysis and achieved an accuracy of 82.5%
 
 * Sentiment Analysis of Tweets
-	* Tokenized and stemmed tweet texts, and determined the most common words
+	* Parsed and stemmed tweet texts, and determined the most common words
 	* Classified the tweet sentiment using the regularized logistic regression, LDA, and KNN
